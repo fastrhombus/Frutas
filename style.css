@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+}
+p{
+    text-align: center;
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+}
+article.a11{
+    display: flex;
+    flex-wrap: wrap;
+}
+article.a11 p.p3{
+    border: 2px black 300px;
+}
+article.a12{
+    justify-content: space-around;
+
+}
+article.a13{
+
+    flex: none;
+    align-items: center;
+}
+article.a21{
+
+}
+div.ficha{
+    border: 2px black solid;
+}
